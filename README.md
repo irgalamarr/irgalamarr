@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Irene Lamarr</h1>
-<h3 align="center">A JS enthusiast specializing in WebRTC and real-time communication technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
